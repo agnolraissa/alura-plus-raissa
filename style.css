@@ -1,7 +1,7 @@
 :root{
      --branco-principal:#FFFFFF;
      --cinza-secundário:#C0C0C0;
-     --botao-azul: #167BF7;
+     --botao-azul: #eba6d4;
      --cor-de-fundo:#00030C;
      --fonte-principal:'inter';
 }
@@ -36,7 +36,7 @@ font-weight: 400;
 .container__botao{
     background-color: var(--botao-azul);
     border-radius: 5px;
-    padding: 1em;
+    padding: 1em;Public
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
@@ -115,5 +115,4 @@ color: var(--cinza-secundário);
 .lista__item{
     font-size: 32px;
     color:var(--branco-principal);
-
 }
